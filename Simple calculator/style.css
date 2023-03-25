@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+.FirstNumber{
+    padding: 10px;
+}
+
+.SecondNumber{
+    padding: 10px;
+}
+
+.ThirdNumber{
+    padding: 10px;
+
+}
+.Result{
+    margin-left: 24px;
+}
