@@ -1,0 +1,20 @@
+.p-inline{
+    display: inline;
+}
+
+.Main{
+    text-align: center;
+}
+.FAQs{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.background01{
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    ;
+}
